@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>秀女攻略</title>
+    <title>大清恋歌</title>
     <style>
         /* 初始化 */
         body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,
@@ -293,9 +293,9 @@
         <div id="shade" class="mask_layer"></div>
         <div class="styleLeft">
             <div class="logo">
-                <img src="http://res.yy5399.com/D7D765A1-6DE1-93D1-2AC0-647E31E24732.png" alt="">
+                <img src="https://bmob-cdn-26596.bmobpay.com/2019/10/26/505309a340eb06578005fc9a3a4f0b80.png" alt="">
             </div>
-            <p class="title_logo">秀女攻略</p>
+            <p class="title_logo">大清恋歌</p>
             <div class="navigation" id="navigationId">
                 <p>关于我们</p>
                 <p>隐私条款</p>
@@ -303,10 +303,17 @@
             </div>
         </div>
         <div class="styleRight">
-            <h3>秀女攻略</h3>
+            <h3>大清恋歌</h3>
             <div class="box1">
-                <p>本网站为《秀女攻略》提供技术支持网址，请勿转载！</p>
-                <p>游戏中遇到任何问题，可随时与我联系。</p>
+                <p>===游戏特色===
+                    大清恋歌是一款宫斗恋爱与换装相结合的全新手游。玩家能够得到多种多样好玩的游戏玩法体验，剧情发展方向和结局子自由选择。
+                    古风古韵
+                    高精度的模型，人物建筑画风细腻唯美，还原最真实的宫廷盛景，让人身临其境，视听全方位地感受清宫生活，品位一番别开生面的宫廷生活之趣！
+                    清宫时尚
+                    三千华服，风格多样的华丽服饰任你选择，超多古风魅力服饰打造，各样创意无限的全新趣味玩法给你诸多的精彩。
+                    实力上位
+                    从低等的宫女开始你的后宫逆袭，在一次次的宫斗之中利用你的手段取胜。当你遇到尔虞我诈的算计时，就要使出手段来维护自己。本网站为《大清恋歌》提供技术支持网址，请勿转载！</p>
+                <p>游戏中遇到任何问题，可随时与我联系(xayxwlkj@163.com)。</p>
             </div>
             <h3 class="fontWeight">隐私条款</h3>
             <p>本游戏非常重视用户的隐私保护，因此制定了本涵盖如何收集、使用、披露、分享以及存储用户的信息的《隐私条款》。
