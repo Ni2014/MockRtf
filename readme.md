@@ -42,7 +42,7 @@
             .styleLeft{
                 width: 100%;
                 height: 128;
-                background: #2DF0E9;
+                background: #9cd7f5;
                 text-align: center;
                 box-sizing: border-box;
                 padding:15px 0;
@@ -52,7 +52,7 @@
                 padding: 40px 30px; 
                 box-sizing: border-box;
                 font-size: 20px;
-                background: #B4F02D;
+                background: #9cd7f5;
             }
             .styleRight p {
                 line-height: 32px;
@@ -171,7 +171,7 @@
                 left:0;
                 top:0;
                 height: 100%;
-                background: #2DF0E9;
+                background: #9cd7f5;
                 padding-top:30px;
             }
             .styleRight{
@@ -180,7 +180,7 @@
                 padding: 70px 80px 70px 80px; 
                 box-sizing: border-box;
                 font-size: 20px;
-                background: #B4F02D;
+                background: #9cd7f5;
             }
             .styleRight p {
                 line-height: 32px;
@@ -269,7 +269,7 @@
                 left:0;
                 top:0;
                 height: 100%;
-                background: #2DF0E9;
+                background: #9cd7f5;
                 padding-top:30px;
             }
             .styleRight{
@@ -278,7 +278,7 @@
                 padding: 70px 80px 70px 80px; 
                 box-sizing: border-box;
                 font-size: 20px;
-                background: #B4F02D;
+                background: #9cd7f5;
             }
         }
     </style>
@@ -305,16 +305,23 @@
         <div class="styleRight">
             <h3>大清恋歌</h3>
             <div class="box1">
-                <p>===游戏特色===
-                    大清恋歌是一款宫斗恋爱与换装相结合的全新手游。玩家能够得到多种多样好玩的游戏玩法体验，剧情发展方向和结局子自由选择。
-                    古风古韵
-                    高精度的模型，人物建筑画风细腻唯美，还原最真实的宫廷盛景，让人身临其境，视听全方位地感受清宫生活，品位一番别开生面的宫廷生活之趣！
-                    清宫时尚
-                    三千华服，风格多样的华丽服饰任你选择，超多古风魅力服饰打造，各样创意无限的全新趣味玩法给你诸多的精彩。
-                    实力上位
-                    从低等的宫女开始你的后宫逆袭，在一次次的宫斗之中利用你的手段取胜。当你遇到尔虞我诈的算计时，就要使出手段来维护自己。本网站为《大清恋歌》提供技术支持网址，请勿转载！</p>
-                <p>游戏中遇到任何问题，可随时与我联系(xayxwlkj@163.com)。</p>
+                <p>本网站为《大清恋歌》提供技术支持网址，请勿转载！</p>
+                <p>游戏中遇到任何问题，可随时与我联系。</p>
             </div>
+            <h3 class="fontWeight">游戏特色</h3>
+            <div class="box1">
+                <p>大清恋歌是一款宫斗恋爱与换装相结合的全新手游。玩家能够得到多种多样好玩的游戏玩法体验，剧情发展方向和结局子自由选择。</p>
+                <br>
+                <h3>古风古韵</h3>
+                <p>高精度的模型，人物建筑画风细腻唯美，还原最真实的宫廷盛景，让人身临其境，视听全方位地感受清宫生活，品位一番别开生面的宫廷生活之趣！</p>
+                <br>
+                <h3>清宫时尚</h3>
+                <p>三千华服，风格多样的华丽服饰任你选择，超多古风魅力服饰打造，各样创意无限的全新趣味玩法给你诸多的精彩。</p>
+                <br>
+                <h3>实力上位</h3>
+                <p>从低等的宫女开始你的后宫逆袭，在一次次的宫斗之中利用你的手段取胜。当你遇到尔虞我诈的算计时，就要使出手段来维护自己。</p>
+            </div>
+            
             <h3 class="fontWeight">隐私条款</h3>
             <p>本游戏非常重视用户的隐私保护，因此制定了本涵盖如何收集、使用、披露、分享以及存储用户的信息的《隐私条款》。
                 用户在使用我们的服务时，我们可能会收集和使用您的相关信息。我们希望通过本《隐私条款》向您说明，在使用我们的服务时，
