@@ -1,4 +1,4 @@
-<head>
+<head >
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -8,7 +8,10 @@
         body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,
         legend,button,input,textarea,th,td,section,p,span,font,div{margin:0;padding:0;}
         ul,ol{list-style:none;}
-        body{font-family: Titillium Web,PingFang SC,Microsoft YaHei,微软雅黑,STXihei,华文细黑,sans-serif;}
+        body{
+            font-family: Titillium Web,PingFang SC,Microsoft YaHei,微软雅黑,STXihei,华文细黑,sans-serif,
+            background: #9cd7f5;
+        }
         button,input,select,textarea{font-size:100%;}table{border-collapse:collapse;border-spacing:0;}
         li{list-style-type:none;}
         a{
